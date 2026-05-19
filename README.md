@@ -1,7 +1,6 @@
 Modern Mafia Territory map
 ====
-[Live page](https://github.com/w98enmwl-git/modernmafia---rp---gangmap.git)
-
+[Live page]()
 ## License
 
 [WTFPL](LICENSE)

@@ -1,6 +1,6 @@
 Modern Mafia Territory map
 ====
-[Live page](https://share.google/7FB12FRmON4XEJ5fv)
+[Live page](https://w98enmwl-git.github.io/modernmafia-rp-map/)
 this live page shows you the map of the territories in RP
 
 ## License

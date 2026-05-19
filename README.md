@@ -1,6 +1,8 @@
 Modern Mafia Territory map
 ====
-[Live page]()
+[Live page](https://share.google/7FB12FRmON4XEJ5fv)
+this live page shows you the map of the territories in RP
+
 ## License
 
 [WTFPL](LICENSE)

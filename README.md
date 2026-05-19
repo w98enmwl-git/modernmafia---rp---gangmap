@@ -1,6 +1,6 @@
 Modern Mafia Territory map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
+[Live page](https://github.com/w98enmwl-git/modernmafia---rp---gangmap.git)
 
 ## License
 
